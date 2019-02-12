@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "angular-to-do-list"
+  "defaultProject": "angular-to-do-list",
+  "cli": {
+    "packageManager": "yarn"
+  }
 }
